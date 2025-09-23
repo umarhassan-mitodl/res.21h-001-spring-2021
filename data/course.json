@@ -1,0 +1,51 @@
+{
+  "term": "Spring",
+  "year": "2021",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Visual Arts"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Asian History"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Modern History"
+    ]
+  ],
+  "legacy_uid": "6cae521b-003a-4efd-0562-48269733c209",
+  "instructors": {
+    "content": [
+      "3ccc00a4-4a5a-8131-447b-f67c5d7e81f1"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "65c9085d-e7b8-8714-48bb-9c1d684e29b3",
+    "website": "res-21h-001-visualizing-the-birth-of-modern-tokyo-spring-2021"
+  },
+  "course_title": "Visualizing the Birth of Modern Tokyo",
+  "hide_download": true,
+  "course_description": "This course shows the emergence of modern Tokyo through artist renderings of its neighborhoods, daily life and nightlife, nested between its recurring destruction by natural disasters and war. Students will learn about the tradition of the \u201c100 views,\u201d and through these composite depictions of the city, will witness the excitement and loss of change. Kiyochika Kobayashi\u2019s woodblock prints of Tokyo in the late 1870s convey a moody view on the cusp of change as the new capital, formerly Edo, begins modernization with Western influences. Koizumi Kishio\u2019s depictions of the \u201cImperial Capital\u201d in the 1930s show the lively cosmopolitanism and move toward ultranationalism that placed the emperor at its center.\n\nThis course is part of the {{% resource_link \"47006e01-afdc-4111-bbd2-2f266b0b24f0\" \"Open Learning Library\" %}}, which is free to use. You have the option to sign up and enroll in the course if you want to track your progress, or you can view and use all the materials without enrolling.\n",
+  "department_numbers": [
+    "21H"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.21H-001",
+  "course_image_thumbnail": {
+    "content": "37f98acf-e49f-6540-4aeb-1157f5e430fb",
+    "website": "res-21h-001-visualizing-the-birth-of-modern-tokyo-spring-2021"
+  },
+  "learning_resource_types": [],
+  "site_uid": "84cc2014-6fd6-4d4a-9722-76cefdb8a333",
+  "site_short_id": "res.21h-001-spring-2021",
+  "site_url_path": "courses/res-21h-001-visualizing-the-birth-of-modern-tokyo-spring-2021",
+  "title": "Course Metadata"
+}
