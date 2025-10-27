@@ -33,7 +33,7 @@
   },
   "course_title": "Visualizing the Birth of Modern Tokyo",
   "hide_download": true,
-  "course_description": "This course shows the emergence of modern Tokyo through artist renderings of its neighborhoods, daily life and nightlife, nested between its recurring destruction by natural disasters and war. Students will learn about the tradition of the \u201c100 views,\u201d and through these composite depictions of the city, will witness the excitement and loss of change. Kiyochika Kobayashi\u2019s woodblock prints of Tokyo in the late 1870s convey a moody view on the cusp of change as the new capital, formerly Edo, begins modernization with Western influences. Koizumi Kishio\u2019s depictions of the \u201cImperial Capital\u201d in the 1930s show the lively cosmopolitanism and move toward ultranationalism that placed the emperor at its center.\n\nThis course is part of the [Open Learning Library](https://openlearning.mit.edu/courses-programs/open-learning-library), which is free to use. You have the option to sign up and enroll in the course if you want to track your progress, or you can view and use all the materials without enrolling.\n",
+  "course_description": "This course shows the emergence of modern Tokyo through artist renderings of its neighborhoods, daily life and nightlife, nested between its recurring destruction by natural disasters and war. Students will learn about the tradition of the \u201c100 views,\u201d and through these composite depictions of the city, will witness the excitement and loss of change. Kiyochika Kobayashi\u2019s woodblock prints of Tokyo in the late 1870s convey a moody view on the cusp of change as the new capital, formerly Edo, begins modernization with Western influences. Koizumi Kishio\u2019s depictions of the \u201cImperial Capital\u201d in the 1930s show the lively cosmopolitanism and move toward ultranationalism that placed the emperor at its center.\n\nThis course is part of the {{% resource_link \"f8c60c90-2670-4495-9ed8-9e21d3bb002b\" \"Open Learning Library\" %}}, which is free to use. You have the option to sign up and enroll in the course if you want to track your progress, or you can view and use all the materials without enrolling.\n",
   "department_numbers": [
     "21H"
   ],
@@ -43,7 +43,6 @@
     "content": "37f98acf-e49f-6540-4aeb-1157f5e430fb",
     "website": "res-21h-001-visualizing-the-birth-of-modern-tokyo-spring-2021"
   },
-  "hide_download_original": true,
   "learning_resource_types": [],
   "site_uid": "84cc2014-6fd6-4d4a-9722-76cefdb8a333",
   "site_short_id": "res.21h-001-spring-2021",
